@@ -39,39 +39,43 @@
 var precacheConfig = [
   [
     "/Hax11ty/content/about/",
-    "Tg2N3PoShnnZSPib"
+    "3cDM9ZzLFXsNXde8"
   ],
   [
     "/Hax11ty/content/contact/",
-    "Tg2N3PoShnnZSPib"
-  ],
-  [
-    "/Hax11ty/content/roadmap/",
-    "Tg2N3PoShnnZSPib"
-  ],
-  [
-    "/Hax11ty/content/why/",
-    "Tg2N3PoShnnZSPib"
+    "3cDM9ZzLFXsNXde8"
   ],
   [
     "/Hax11ty/content/install/",
-    "Tg2N3PoShnnZSPib"
+    "3cDM9ZzLFXsNXde8"
   ],
   [
-    "/Hax11ty/content/examples/HAXTeam/",
-    "Tg2N3PoShnnZSPib"
+    "/Hax11ty/content/blogs/",
+    "3cDM9ZzLFXsNXde8"
+  ],
+  [
+    "/Hax11ty/content/roadmap/",
+    "3cDM9ZzLFXsNXde8"
+  ],
+  [
+    "/Hax11ty/content/why/",
+    "3cDM9ZzLFXsNXde8"
   ],
   [
     "/Hax11ty/content/examples/Community/",
-    "Tg2N3PoShnnZSPib"
+    "3cDM9ZzLFXsNXde8"
+  ],
+  [
+    "/Hax11ty/content/examples/HAXTeam/",
+    "3cDM9ZzLFXsNXde8"
   ],
   [
     "/Hax11ty/content/examples/",
-    "Tg2N3PoShnnZSPib"
+    "3cDM9ZzLFXsNXde8"
   ],
   [
     "/Hax11ty/",
-    "Tg2N3PoShnnZSPib"
+    "3cDM9ZzLFXsNXde8"
   ]
 ];
 var cacheName = 'sw-precache-v3--' + (self.registration ? self.registration.scope : '');

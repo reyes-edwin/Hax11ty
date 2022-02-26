@@ -8,6 +8,14 @@
    "text":"HAX11ty is a merger between HAX and 11ty. It uses these technologies in the following way:  User edits via HAX (future) or modifies files locally  hax11ty script watches for changes and rebuilds files w/ 11ty, refreshing the screen  this is compiled to a valid HAXcms data package to be used either completely static with a CDN or locally in HAXcms PHP version"
   },
   {
+   "id":"Blogs",
+   "title":"Blogs",
+   "created": "",
+   "location":"/Hax11ty/content/blogs/",
+   "description":"Initially, I only knew three things when I started web development: HTML, CSS, and Js. Now there are hundreds of libraries and frameworks to choose from. If you're new to web components, you're at the right place. In this tutorial, I will show you how to build a simple web component using the Lit library. First thing first.... What are web components?A Web Component is a collection of web platform APIs that can be used to create custom, reusable HTML tags that can be used in web pages and web apps.Learn moreWeb components are based on existing web standards. The features needed to support web components are currently being implemented to the HTML and DOM specs, allowing developers to extend HTML elements with encapsulated styling and custom behavior.Software InstallationBefore we get started, you first will need to install some tools.Node.js is an open-source, cross-platform run time environment for executing javascript code. Due to its event-driven, non-blocking I/O model, Node.js is",
+   "text":"Initially, I only knew three things when I started web development: HTML, CSS, and Js. Now there are hundreds of libraries and frameworks to choose from. If you're new to web components, you're at the right place. In this tutorial, I will show you how to build a simple web component using the Lit library. First thing first.... What are web components?A Web Component is a collection of web platform APIs that can be used to create custom, reusable HTML tags that can be used in web pages and web apps.Learn moreWeb components are based on existing web standards. The features needed to support web components are currently being implemented to the HTML and DOM specs, allowing developers to extend HTML elements with encapsulated styling and custom behavior.Software InstallationBefore we get started, you first will need to install some tools.Node.js is an open-source, cross-platform run time environment for executing javascript code. Due to its event-driven, non-blocking I/O model, Node.js is"
+  },
+  {
    "id":"Community examples",
    "title":"Community examples",
    "created": "",
